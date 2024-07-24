@@ -1,4 +1,4 @@
-const PROXY_URL = 'https://generativelanguage.googleapis.com'
+const PROXY_URL = 'https://eggacheb-chuanhuchatgpt.hf.space'
 
 export default defineEventHandler(async event => {
     const url = getRequestURL(event)
